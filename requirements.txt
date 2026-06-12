@@ -1,6 +1,6 @@
 pyrogram
 tgcrypto
-pytgcalls[pyrogram]
+pytgcalls
 python-dotenv
 yt-dlp
 youtube_search_python
