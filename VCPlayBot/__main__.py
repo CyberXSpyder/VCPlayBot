@@ -1,4 +1,5 @@
 import requests
+from keep_alive import keep_alive
 from pyrogram import Client as Bot
 
 from VCPlayBot.config import API_HASH
@@ -20,5 +21,6 @@ bot = Bot(
     plugins=dict(root="VCPlayBot.modules"),
 )
 
+keep_alive()
 bot.start()
 run()
