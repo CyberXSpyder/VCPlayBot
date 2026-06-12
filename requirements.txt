@@ -2,7 +2,7 @@ pyrogram
 tgcrypto
 pytgcalls[pyrogram]
 python-dotenv
-youtube_dl
+yt-dlp
 youtube_search_python
 requests
 aiohttp
@@ -18,3 +18,4 @@ psutil
 wget
 tswift
 regex
+Flask
